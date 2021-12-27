@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(59, 55, 55);
+    color: white;
+}
+.divdisplay {
+    display: flex;
+    overflow: scroll;
+    width: 100%;
+    height: fit-content;
+    padding: 20px solid black;
+    margin-left: 0;
+    border-radius: 10px;
+}
+.mydiv {
+    
+    display: flex;
+    overflow: scroll;
+}
+.innerDiv {
+    border: 10px solid black;
+   width: auto;
+}
+
+.pName {
+
+display: flex;
+width: auto;
+}
+h2,h5,h6 {
+    margin-left: 0;
+    text-align: left;
+    color: white;
+}
+.leftRow {
+    
+    height: fit-content;
+    padding: 20px;
+}
+.Hello {
+    background-color: black;
+    padding: 20px;
+    border-radius: 10px;
+}
